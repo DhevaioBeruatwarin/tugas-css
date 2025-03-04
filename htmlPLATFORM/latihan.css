@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+.container1 {
+    border: solid 10px gray;
+    background-color: white;
+    height: 100%;
+}
+.container1 p {
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.container1 img {
+    position: top left;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 70px;
+    left: 40%;
+}
+.buatTable {
+    margin: auto;
+    border: solid;
+    margin-top: 30px;
+    background: pink;
+    padding-bottom: 30px;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 80%;
+}
+th, td {
+    border: solid 1px;
+    padding: 8px;
+    background-color: white;
+}
+
+.container3 {
+    padding: 40px;
+    border: solid;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container3 img {
+    width: 100px;
+    position: relative;
+    left: 565px;
+}
